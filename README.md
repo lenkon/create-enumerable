@@ -25,7 +25,7 @@
 
 # 📖 [Create enumerable] <a name="about-project"></a>
 
-> In this project create a class MyList and a module MyEnumerable. The module MyEnumerable will implement a subset of the functionality of Enumerable. Built using Ruby.
+> In this project, create a class MyList and a module MyEnumerable. The module MyEnumerable will implement a subset of the functionality of Enumerable. Built using Ruby.
 
 **[Create enumerable]** is...
 
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 To run the project, execute the following command:
 
 ```sh
-  ruby .\mylist.rb
+  ruby .\verify_mylist.rb
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
